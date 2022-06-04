@@ -20,4 +20,7 @@ document.getElementById("fileSelect").addEventListener("change", (e) => {
   })
 })
 
-
+function erreur(){
+  alert("L'enregistrement sonore n'est pas encore disponible")
+}
+  
